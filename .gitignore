@@ -11,5 +11,6 @@ config.status
 configure
 i3xrocks-config.h*
 stamp-h1
+tags
 
 debian/files
